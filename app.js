@@ -6,7 +6,7 @@ function store() {
 
     var user = {
         name: name.value,
-        emai: email.value,
+        email: email.value,
         age: age.value,
         address: address.value
     }
