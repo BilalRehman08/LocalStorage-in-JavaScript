@@ -1,0 +1,27 @@
+#store{
+    width: 150px;
+    height: 40px;
+    border: 5px solid black;
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+
+}
+
+#get{
+    width: 150px;
+    height: 40px;
+    border: 5px solid black;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+
+}
+
+
+#name,#email,#age,#address
+    {
+        border: 2px solid black;
+        width: 200px;
+        height: 20px;
+      }
